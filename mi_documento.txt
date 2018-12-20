@@ -1,3 +1,4 @@
 ¡Hola mundo!
 Pruebas con el stage
 pruebas con el checkout
+Soy María y estoy trabajando en la rama colaboración
